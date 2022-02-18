@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+.navbar {
+    background-color:rgb(180, 223, 203) ;
+}
+.navbar-brand {
+    font-size: x-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.menutitle {
+   color: indianred;
+}
+.content1 {
+    font-size: x-large;
+    background-color: rgb(180, 223, 203);
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: auto;
+}
+
+
+.content {
+    background-color: rgb(180, 223, 203);
+    margin-left: 30px;
+    margin-right: 30px;
+}

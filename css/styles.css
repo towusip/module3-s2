@@ -10,18 +10,17 @@
 }
 .menutitle {
    color: indianred;
+   margin-bottom: 30px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .content1 {
     font-size: x-large;
     background-color: rgb(180, 223, 203);
-    margin-left: 30px;
-    margin-right: 30px;
     margin-bottom: auto;
+    padding: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
-
 .content {
     background-color: rgb(180, 223, 203);
-    margin-left: 30px;
-    margin-right: 30px;
+    font-style: italic;
 }
